@@ -48,6 +48,6 @@ cors:
     - https://pintech.koreait.xyz
     - http://localhost:3000
 
-# 프론트 엔드 도메인
+# 프론트 엔드 도메인 (실제 도메인, 연습 도메인)
 front:
   domain: https://pintech.koreait.xyz,http://localhost:3000
